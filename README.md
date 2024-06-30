@@ -1,6 +1,6 @@
 # Car Rental System
 
-The Car Rental System is an API application developed using the stack (MongoDB, Express.js, Node.js). It provides functionalities for managing car rentals, customers, and rentals.
+This is a RESTful API built with Node.js, Express, and MongoDB. It provides functionalities for managing car rentals, customers, and rentals.
 
 ## Features
 
