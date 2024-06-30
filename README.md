@@ -1,6 +1,6 @@
 # Car Rental System
 
-The Car Rental System is a full-stack web application developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides functionalities for managing car rentals, customers, and rentals.
+The Car Rental System is an API application developed using the stack (MongoDB, Express.js, Node.js). It provides functionalities for managing car rentals, customers, and rentals.
 
 ## Features
 
